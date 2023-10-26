@@ -1,0 +1,45 @@
+/* UNIVERSAL SELECTOTR */
+/* *{
+    color: red;
+} */
+
+/* TYPE SELECTOR */
+/* singlr */
+/* h1{
+    color: red;
+} */
+
+/* multiple */
+/* h1,span{
+    color: red;
+} */
+
+ /* CLASS SELECTOR */
+ /* .interest{
+    color: red;
+ } */
+
+ /* ID SELECTOR */
+ /* #my-span{
+    color: red;
+ } */
+
+ /* CHILD SELECTO */
+ /* span > p{
+    color: red;
+ } */
+
+ /* DESCENDANT SELECTOR */
+ /* div p{
+    color: red;
+ } */
+
+ /* ADJACENT SIBLING SELECTOR */
+ /* h1+p{
+    color: red;
+ } */
+
+ /* GENERAL SIBLING SELECTOR */
+ h1~p{
+    color: red;
+ }
